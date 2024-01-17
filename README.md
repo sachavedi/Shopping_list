@@ -1,6 +1,7 @@
 # shopping_list
 
-A new Flutter project.
+A new Flutter project  
+With the help of a Udemy course
 
 ## Getting Started
 
